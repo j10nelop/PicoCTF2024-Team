@@ -5,7 +5,7 @@
 * 83dcefb7
 * Sau khi vào được máy chủ của bên pico thì mình thấy ngay một hình ảnh mã qr, sau khi ls thì có một file là flag.png nên mình đoán ảnh QR ở đầu chính là file này
 
-![Screenshot 2024-04-05 121331](https://github.com/LDV-SpaceK/picoCTF2024/assets/151914246/3ebfad66-5996-4938-86c9-763e73d9c3fb)
+![Screenshot 2024-04-05 121331](https://github.com/LDV-SpaceK/PicoCTF2024-Team/assets/151914246/3ebfad66-5996-4938-86c9-763e73d9c3fb)
 
 * Quét QR và mình tìm được flag, flag được encode trong ảnh QR
 
